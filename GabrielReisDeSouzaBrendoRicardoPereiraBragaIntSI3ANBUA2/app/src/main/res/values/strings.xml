@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GabrielReisDeSouzaBrendoRicardoPereiraBragaIntSI3ANBUA</string>
+    <string name="lista_livros">Aqui uma lista </string>
+    <string name="mensagem_nome">Qual o seu nome?</string>
+    <string name="mensagem_assunto">Qual seu assunto de interesse?</string>
+    <string name="button_send">Ok</string>
+</resources>
